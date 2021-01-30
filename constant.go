@@ -22,3 +22,12 @@ func main() {
 
 }
 */
+/*
+
+func main() {
+	a := 5.9 / 8
+	fmt.Printf("print type of a %T ", a)
+	fmt.Println("value of a =>", a)
+}
+
+*/
