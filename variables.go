@@ -72,3 +72,19 @@ func main() {
 
 */
 
+/*
+package main
+
+import (
+	"fmt"
+	"math"
+)
+
+func main() {
+
+	a, b := 145.8, 543.9
+	c := math.Min(a, b)
+	fmt.Println(c)
+}
+
+*/
