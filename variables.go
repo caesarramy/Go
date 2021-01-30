@@ -29,3 +29,5 @@ func main() {
 }
 
 */
+
+// Multiple variable declaration
