@@ -7,10 +7,10 @@ package main // Every go file must start with the package name statement , Packa
              // اى مشروع جديد لازم يكون فية بكدج كانك بتجمع كل الكود فى حاجة واحدة مش شرط يكون اسم ال بكدج main
             // اى حاجة هيتعملها Run لازم هتكون ف func  ال main
 
-import "fmt" // دى library بتعمل println 
+import "fmt" // دى package فيها func بتعمل println 
 
 func main() { // اى func مهمة بيتعمل ليها print هنا 
 
-	fmt.Println("Hello World")
+	fmt.Println("Hello World") 
   
 }
