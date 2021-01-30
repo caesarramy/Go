@@ -51,3 +51,12 @@ func main() {
     fmt.Println("my name is", name, ", age is", age, "and height is", height)
 }
 */
+
+
+// Short hand declaration
+/* 
+func main() {
+	count := 10
+	fmt.Println(count)
+}
+*/ 
