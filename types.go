@@ -38,3 +38,19 @@ func main() {
 	fmt.Printf("\ntype of b is %T, size of b is %d", b, unsafe.Sizeof(b)) //type and size of b
 }
 */
+
+/*
+
+func main() {
+
+	a, b := 5.67, 8.97
+	fmt.Printf("type of a %T and Type of b %T", a, b)
+	sum := a + b
+	diff := a - b
+	fmt.Println("Sum is ", sum, "Diff is ", diff)
+	no1, no2 := 56, 89
+	fmt.Println("sum", no1+no2, "diff", no1-no2)
+
+}
+
+*/
