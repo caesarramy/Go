@@ -54,3 +54,13 @@ func main() {
 }
 
 */
+
+/*
+
+func main() {
+	first := "Roger"
+	lastname := "Steve"
+	fmt.Println(first, lastname)
+}
+
+*/
