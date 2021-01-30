@@ -53,10 +53,22 @@ func main() {
 */
 
 
-// Short hand declaration
+// Short hand declaration you can use this for first time on variable declaration after that it will cause errors 
 /* 
 func main() {
 	count := 10
 	fmt.Println(count)
 }
 */ 
+
+// multiple variables in a single line using short hand syntax.
+
+/*
+func main() {
+
+	name, age := "Roger", 27
+	fmt.Println("My name is ", name, "And my age is ", age)
+}
+
+*/
+
