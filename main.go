@@ -1,3 +1,4 @@
+# Run this file by go build 
 package main
 
 import "fmt"
