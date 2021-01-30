@@ -64,3 +64,12 @@ func main() {
 }
 
 */
+/*
+// Go is very strict about explicit typing. There is no automatic type promotion or conversion. Let's look at what this means with an example.
+func main() {
+
+    i := 55      //int
+    j := 67.8    //float64
+    sum := i + j //int + float64 not allowed
+    fmt.Println(sum) 
+}
